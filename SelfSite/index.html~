@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Kylie Stradley</title>
+    <meta charset="utf-8">
+    <link rel ="stylesheet" href="stylesheets/selfsite.css">
+  
+  </head>
+  <body>
+  <h1><img src="images/kylie.jpg" /></h1>
+  <h1>Kylie Stradley<h1>
+
+  <h2>About Me</h2>
+  <p>After graduating from Georgia Tech, I have worked in Supply Chain planning and written countless lines of SQL and VBA/VBS. I am learning ruby on rails as well as brushing up my html skills. I live in Atlanta, GA and spend a lot of my time at the botanical gardens</p>
+
+  <h2>About My Cat</h2>
+  <h1><img src ="images/scout.jpg" /></h1>
+  <p>Scout is a terrible beast, possessed by demons, but otherwise very charming.<p>
+
+
+  <h2>My Resume and Experience</h2>
+  <h3>Education</h3>
+  
+  <p>Georgia Institute of Technology-Bachelor of Sciences, Business Administration</p>
+  <p>Siemens-Operations Leadership Development Program, Jan 2012-Current</p>
+  </body>
+</html>
